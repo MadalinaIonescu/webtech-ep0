@@ -1,0 +1,29 @@
+#img1{
+    width:300px;
+    hight:300px;
+    border:5px dotted red
+}
+
+h1{
+    color:blue;
+}
+
+li:nth-child(odd){
+    color:green;
+}
+
+li:nth-child(even){
+    color:violet;
+}
+
+div >h4:{
+    color: red;
+}
+
+#facebook [href$=".com"]{
+    background-color:cyan;
+}
+
+#facebook:hover{
+    color:white;
+}
